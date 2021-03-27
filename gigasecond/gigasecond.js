@@ -1,0 +1,1 @@
+export const gigasecond = dt => new Date(dt.getTime() + 10e11);
